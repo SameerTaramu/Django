@@ -1,1 +1,1 @@
-“Vanilla frontend with Django created for student form”
+“todo api using DRF”
